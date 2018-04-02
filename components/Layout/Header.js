@@ -6,7 +6,7 @@ class Header extends React.Component {
             <div>
                 <Head>
                     <title>Test App</title>
-                    <link rel="stylesheet" href="https://bootswatch.com/4/superhero/bootstrap.min.css"/>
+                    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
                 </Head>
             </div>
         )
